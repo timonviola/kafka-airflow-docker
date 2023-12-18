@@ -1,3 +1,5 @@
+Only for debug - test purposes.
+
 Trigger Airflow KafkaSensor dag
 
 The connection is created already, the kafka topic has to be created using kafka-console.
